@@ -18,13 +18,17 @@
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+<!--             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
+            <li class="p-email">{{ site.author.email | escape }}</li>
+          {% if site.location -%}
+            <li class="p-location">{{ site.location | escape }}</li>
+          {% endif -%}
           {%- endif %}
         </ul>
       {%- endif %}
-      {% if site.location -%}
-		<p>{{ site.location | escape }}</p>
-      {% endif -%}
+<!--       {% if site.location -%}
+		    <p>{{ site.location | escape }}</p>
+      {% endif -%} -->
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
