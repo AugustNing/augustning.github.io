@@ -6,7 +6,7 @@ permalink: /
 <!-- <img align="right" width="300" src="images/headshot_cropped.jpg" style="padding-right: 30px; padding-left: 30px">
  -->
 <div align="center">
-	<img src="images/headshot.jpg" alt="Profile" height="400" style="padding-bottom: 20px" />
+	<img src="images/headshot.jpg" alt="Profile" class="profile" style="padding-bottom: 20px" />
 </div>
 
 I am studying [Electrical and Computer Engineering](https://ece.duke.edu/) and in the [Pratt School of Engineering](https://pratt.duke.edu/) at [Duke University](https://duke.edu/). I conduct research on VLSI testing and am advised by [Prof. Krishnendu Chakrabarty](http://people.ee.duke.edu/~krish/) and his graduate students. 
