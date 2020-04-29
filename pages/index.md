@@ -3,7 +3,7 @@ layout: page
 title: Home
 permalink: /
 ---
-<img align="left" width="300" src="images/headshot_cropped.jpg" style="padding-right: 60px">
+<img align="right" width="300" src="images/headshot_cropped.jpg">
 
 I am a student studying [Electrical and Computer Engineering](https://ece.duke.edu/) and in the [Pratt School of Engineering](https://pratt.duke.edu/) at [Duke University](https://duke.edu/). I conduct research on VLSI testing and am advised by [Prof. Krishnendu Chakrabarty](http://people.ee.duke.edu/~krish/) and his graduate students. 
 
