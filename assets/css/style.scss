@@ -8,6 +8,23 @@
 
 .profile {
   width: 100%;
-  max-width: 600px;
+  max-width: 500px;
   height: auto;
+}
+
+.side_profile {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+@media only screen and (max-width: 768px) {
+	.side_profile {
+	  width: 100%;
+	  max-width: 300px;
+	  height: auto;
+	  display: flex;
+  	  flex-wrap: wrap;
+      align-content: left;
+	}
 }
