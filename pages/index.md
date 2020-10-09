@@ -21,11 +21,11 @@ I did my undergrad at Duke in Electrical and Computer Engineering. I was advised
 My research is supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship.
 
 ***
-#### **Research Interests**
+### **Research Interests**
 I am interested in research on computer architecture, especially on heterogenous systems and hardware for emerging architectures.
 
 ***
-##### **News**
+### **News**
 * Aug 2020: I started my PhD in electrical engineering at Princeton
 * May 2020: I graduated from Duke - *Magna Cum Laude* and with ECE Distinction
 * May 2020: I will be interning at Microsoft Redmond this summer (remotely!) 
