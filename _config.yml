@@ -14,13 +14,13 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: augustplease
+    twitter: ataugustning
     github:  augustning
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: ataugustning
     linkedin: atning
     # pinterest: jekyll
     # youtube: jekyll
@@ -49,7 +49,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 # - pages/about.md
-- pages/research.md
+# - pages/research.md
 - pages/cv.md
 
 # Build settings
