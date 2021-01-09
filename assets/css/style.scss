@@ -51,9 +51,21 @@ $max-width:720px;
   }  
 }
 
-.circle-crop {
+/*
+.circle-crop-old {
   width: 400px;
   height: 400px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  display: inline-block;
+}
+*/
+
+.circle-crop {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
