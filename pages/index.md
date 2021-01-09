@@ -3,13 +3,18 @@ layout: page
 permalink: /
 ---
 <div align="center" style="text-align: center">
-	<img src="images/headshot.jpg" alt="Profile" class="profile"/>
+<!-- 	<img src="images/headshot.jpg" alt="Profile" class="profile"/>-->	
+	<div class="circle-crop" align="center">
+		<img src="images/profile2.jpg" alt="August Ning"/>
+	</div>
 	<br>
-	Email: {{site.author.email}}
-	<br>
-	Twitter: <a href="https://twitter.com/{{site.minima.social_links.twitter}}">@{{site.minima.social_links.twitter}}</a>
-	<br>
-	Linkedin: <a href="https://linkedin.com/in/{{site.minima.social_links.linkedin}}">@{{site.minima.social_links.linkedin}}</a>
+	<div style="display: inline-block; text-align: center;">
+		Email: {{site.author.email}}
+		<br>
+		Twitter: <a href="https://twitter.com/{{site.minima.social_links.twitter}}">@{{site.minima.social_links.twitter}}</a>
+		<br>
+		Linkedin: <a href="https://linkedin.com/in/{{site.minima.social_links.linkedin}}">@{{site.minima.social_links.linkedin}}</a>
+	</div>
 </div>
 
 ***
