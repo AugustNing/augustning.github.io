@@ -5,7 +5,7 @@ permalink: /
 <div align="center" style="text-align: center">
 <!-- 	<img src="images/headshot.jpg" alt="Profile" class="profile"/>-->	
 	<div class="circle-crop" align="center">
-		<img src="images/profile2.jpg" alt="August Ning"/>
+		<img src="images/profile.jpg" alt="August Ning"/>
 	</div>
 	<br>
 	<div style="display: inline-block; text-align: center;">
@@ -19,18 +19,12 @@ permalink: /
 
 ***
 
-I am a first year Electrical Engineering PhD student at Princeton.
+I am a first year Electrical Engineering PhD student at Princeton. I am advised by [Prof. David Wentzlaff](https://www.princeton.edu/~wentzlaf/).
 
-I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](http://people.ee.duke.edu/~krish/) and his graduate students and conducted research on VLSI testing.
+I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://people.ee.duke.edu/~krish/) and his graduate students and conducted research on VLSI testing.
 
-I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship.
+I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program.
 
 ***
 ### **Research Interests**
-I am interested in computer architecture and systems, especially heterogenous systems and emerging architectures.
-
-***
-### **News**
-* Aug 2020: I started my PhD in electrical engineering at Princeton
-* May 2020: I graduated from Duke - *Magna Cum Laude* and with ECE Distinction
-* May 2020: I will be interning at Microsoft Redmond this summer (remotely!) 
+Computer architecture and systems, heterogenous computing, reconfigurable computing.
