@@ -19,7 +19,7 @@ permalink: /
 
 ***
 
-I am a 1.5 year Electrical and Computer Engineering PhD student at Princeton. I am advised by [Prof. David Wentzlaff](https://www.princeton.edu/~wentzlaf/).
+I am a first year Electrical and Computer Engineering PhD student at Princeton. I am advised by [Prof. David Wentzlaff](https://www.princeton.edu/~wentzlaf/).
 
 I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](http://people.ee.duke.edu/~krish/) and his graduate students and conducted research on VLSI testing.
 
