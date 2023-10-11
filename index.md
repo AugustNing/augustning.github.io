@@ -4,7 +4,7 @@ layout: home
 
 <div align="center" style="text-align: center">
 	<div class="circular-portrait" align="center">
-		<img src="images/profile.jpg" alt="August Ning"/>
+		<img src="{{ site.profile_photo_filepath }}" alt="August Ning"/>
 	</div>
 	<br>
 	<br>
@@ -115,6 +115,6 @@ Additionally, I am passionate about building research and student communities. I
 
 ---
 
-[Github](https://github.com/{{ site.github }}) / [Google Scholar](https://scholar.google.com/citations?user={{ site.google_scholar }}) / [CV](/assets/Ning_August_CV.pdf)
+[Github](https://github.com/{{ site.github }}) / [Google Scholar](https://scholar.google.com/citations?user={{ site.google_scholar }}) / [CV]({{ site.cv_filepath }})
 
 This website is built with [Jekyll](https://github.com/jekyll/jekyll) using a modified [no style, please!](https://github.com/riggraz/no-style-please) theme.

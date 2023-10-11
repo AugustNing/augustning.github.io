@@ -6,7 +6,8 @@ twitter: ataugustning
 linkedin: atning
 github: augustning
 google_scholar: S9PUzssAAAAJ
-
+cv_filepath: /assets/Ning_August_CV.pdf
+profile_photo_filepath: /assets/images/profile.jpg
 
 favicon: "favicon.ico" # name+extension of favicon (which must be put on the root folder)
 
