@@ -1,66 +1,29 @@
-title: August Ning
-author:
-  name: August Ning
-  email: aning [🌀] princeton [⏺] edu
-description: > # this means to ignore newlines until "show_excerpts:"
-  August Ning - ECE PhD at Princeton
-location: Princeton, NJ
-show_excerpts: false # set to true to show excerpts on the homepage
-site_url: https://augustning.com
+title: August Ning # name of the site
+author: August Ning # name of site's author
+email: aning [🌀] princeton [⏺] edu # email of site's author
+url: https://augustning.com # root address of the site
+twitter: ataugustning
+linkedin: atning
+github: augustning
+google_scholar: S9PUzssAAAAJ
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    twitter: ataugustning
-    github:  augustning
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    instagram: ataugustning
-    linkedin: atning
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
+favicon: "favicon.ico" # name+extension of favicon (which must be put on the root folder)
 
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+# theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please
 
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
-    # Google Analytics
-    google_analytics: UA-194870269-1
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-# - pages/about.md
-# - pages/research.md
-- pages/cv.md
-
-# Build settings
-theme: minima
+sass:
+  style: :compressed
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-target-blank
- - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-relative-links
+

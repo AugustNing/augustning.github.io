@@ -1,0 +1,36 @@
+---
+---
+
+@import "no-style-please";
+
+.inner {
+  max-width: 75%;
+}
+
+.circular-portrait {
+  position: relative;
+  overflow: hidden;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.circular-portrait img {
+  width: 300px;
+  height: auto;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.no_marker {
+  list-style-type: none;
+  list-style-position: outside;
+  margin-left: 0px;
+}
+
+.hfill {
+   display: flex;
+   justify-content: space-between;
+}
