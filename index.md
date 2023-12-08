@@ -51,6 +51,16 @@ Additionally, I am passionate about building research and student communities. I
 
 ***
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
+### **Preprints**
+
+<ul class='no_marker'>
+	<li><b>A Hardware Evaluation Framework for Large Language Model Inference</b></li>
+	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</li>
+	<li>Dec 2023</li>
+	<li><a href="https://arxiv.org/abs/2312.03134">[arxiv]</a> <a href="assets/papers/llm-hardware-eval-arxiv-2023.pdf">[pdf]</a></li>
+</ul>
+
+<!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
 ### **Publications**
 
 <ul class='no_marker'>
@@ -95,8 +105,6 @@ Additionally, I am passionate about building research and student communities. I
 	<li><i>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</i>, Feb 2021</li>
 	<li><a href="https://ieeexplore.ieee.org/document/9316977">[IEEE Xplore]</a> <a href="assets/papers/vadft-cntfet-tvlsi-2021.pdf">[pdf]</a></li>
 </ul>
-
----
 
 ### **Workshops/Presentations**
 

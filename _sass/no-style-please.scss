@@ -51,12 +51,14 @@ li { margin: 0.4rem 0; }
   padding: 2rem 2rem;
 }
 
+// edit the content string for custom markdown '---' break
+
 hr {
   text-align: center;
   border: 0;
 
-  &:before { content: '////////' }
-  &:after { content: attr(data-content) '////////' }
+  &:before { content: ' ' }
+  &:after { content: attr(data-content) ' ' }
 }
 
 table { width: 100%; }
