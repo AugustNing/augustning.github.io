@@ -31,6 +31,7 @@ I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Re
 
 ### **News**
 
+* Dec 2023 - New preprint up on arxiv: [A Hardware Evaluation Framework for Large Language Model Inference](https://arxiv.org/abs/2312.03134)
 * Sep 2023 - Incredibly fortunate to receive a Princeton ECE Graduate Student Service Award
 * Aug 2023 - An extend version of our CIFER paper has been accepted in IEEE Solid-State Circuits Letters
 * Jun 2023 - Modeling for Supply Chain Aware Computer Architecture is open sourced. Check it out! [github.com/PrincetonUniversity/ttm-cas/](https://github.com/PrincetonUniversity/ttm-cas/)
