@@ -31,15 +31,14 @@ I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Re
 
 ### **News**
 
+* Mar 2024 - Presented at NYU Computer Architecture Day
+* Mar 2024 - LLMCompass accepted at ISCA 2024! The preprint is on [arxiv](https://arxiv.org/abs/2312.03134)
+* Mar 2024 - Gave a talk for Princeton ACM about "Why You Should (and Should Not!) Go to Grad School"
+* Feb 2024 - I will be serving on the ISCA 2024 Artifact Evaluation Committee
 * Dec 2023 - New preprint up on arxiv: [A Hardware Evaluation Framework for Large Language Model Inference](https://arxiv.org/abs/2312.03134)
 * Sep 2023 - Incredibly fortunate to receive a Princeton ECE Graduate Student Service Award
 * Aug 2023 - An extend version of our CIFER paper has been accepted in IEEE Solid-State Circuits Letters
 * Jun 2023 - Modeling for Supply Chain Aware Computer Architecture is open sourced. Check it out! [github.com/PrincetonUniversity/ttm-cas/](https://github.com/PrincetonUniversity/ttm-cas/)
-* May 2023 - Interning at AMD Research in Seattle/Bellevue. Please reach out if you're in the area!
-* Mar 2023 - I'll be serving as the Social Co-Chair with my pal Haiyue Ma at ASPLOS 2023. See everyone there!
-* Mar 2023 - The Princeton computer architecture students hosted Princeton Computer Architecture Day! We had ~50 researchers from seven different schools and 18 awesome lightning talks
-* Mar 2023 - "Supply Chain Aware Computer Architecture" accepted at ISCA 2023!
-* Jan 2023 - Two papers CIFER and DECADES accepted at CICC 2023. Awesome collaborations with Cornell and Columbia respectively
 
 ***
 
@@ -48,21 +47,29 @@ My research focuses on computer architecture under (very broadly defined) econom
 
 Closer to traditional computer architecture, I am interested in sustainability, hardware security, chiplet architectures, and software-hardware co-design via the [DECADES Project](https://decades.cs.princeton.edu/).
 
-Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and often organize social events with the Princeton computer architects. If you're ever in the Princeton area or meet me at a conference, please reach out and say hello!
+Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and often organize social events with the Princeton computer architects. I am also the graduate liason for [Princeton ACM](https://princeton.acm.org/). If you're ever in the Princeton area or meet me at a conference, please reach out and say hello!
 
 ***
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
-### **Preprints**
+<!-- ### **Preprints**
 
 <ul class='no_marker'>
 	<li><b>A Hardware Evaluation Framework for Large Language Model Inference</b></li>
 	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</li>
 	<li>Dec 2023</li>
 	<li><a href="https://arxiv.org/abs/2312.03134">[arxiv]</a> <a href="assets/papers/llm-hardware-eval-arxiv-2023.pdf">[pdf]</a></li>
-</ul>
+</ul> -->
 
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
 ### **Publications**
+
+<ul class='no_marker'>
+	<li><b>LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference</b></li>
+	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</i></li>
+	<li><i>The 51th International Symposium on Computer Architecture (ISCA)</i>, Buenos Aires, AR, Jun 2024</li>
+	<li><a href="https://arxiv.org/abs/2312.03134">[arxiv]</a></li>
+</ul>
+
 
 <ul class='no_marker'>
 	<li><b>CIFER: A Cache-Coherent 12nm 16mm<sup>2</sup> SoC With Four 64-Bit RISC-V Application Cores, 18 32-Bit RISC-V Compute Cores, and a 1541 LUT6/mm<sup>2</sup> Synthesizable eFPGA</b></li>
