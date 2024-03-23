@@ -47,7 +47,7 @@ My research focuses on computer architecture under (very broadly defined) econom
 
 Closer to traditional computer architecture, I am interested in sustainability, hardware security, chiplet architectures, and software-hardware co-design via the [DECADES Project](https://decades.cs.princeton.edu/).
 
-Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and often organize social events with the Princeton computer architects. I am also the graduate liason for [Princeton ACM](https://princeton.acm.org/). If you're ever in the Princeton area or meet me at a conference, please reach out and say hello!
+Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and often organize social events with the Princeton computer architects. I am the graduate liason for [Princeton ACM](https://princeton.acm.org/). If you're ever in the Princeton area or meet me at a conference, please reach out and say hello!
 
 ***
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
@@ -65,8 +65,8 @@ Additionally, I am passionate about building research and student communities. I
 
 <ul class='no_marker'>
 	<li><b>LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference</b></li>
-	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</i></li>
-	<li><i>The 51th International Symposium on Computer Architecture (ISCA)</i>, Buenos Aires, AR, Jun 2024</li>
+	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</li>
+	<li><i>The 51th International Symposium on Computer Architecture (ISCA) (to appear)</i>, Buenos Aires, AR, Jun 2024</li>
 	<li><a href="https://arxiv.org/abs/2312.03134">[arxiv]</a></li>
 </ul>
 
