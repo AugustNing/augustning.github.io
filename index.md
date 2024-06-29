@@ -19,7 +19,9 @@ layout: home
 
 ***
 
-I am a fourth year Electrical and Computer Engineering PhD candidate at Princeton. I am advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/).
+<span style="color:red">**I am graduating in 2025 and am on the job market for industry research and academic postdoc positions. Please reach out if you think we'll have a good fit. Thank you!**</span>
+
+I am a senior Electrical and Computer Engineering PhD candidate at Princeton. I am advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/).
 
 I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916) and his graduate students and conducted research on VLSI testing.
 
@@ -31,6 +33,8 @@ I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Re
 
 ### **News**
 
+* Jun 2024 - Presenting LLMCompass at ISCA 2024. LLMCompass is open source! Check out our [lightning talk](https://www.youtube.com/watch?v=OlF5D0HDJTE), [full paper](assets/papers/llmcompass-isca-2024.pdf), [Github repo](https://github.com/PrincetonUniversity/llmCompass/), and let's chat in Buenos Aires!
+* May 2024 - Mentoring two undergrad students this summer for the Princeton-Intel REU program
 * Mar 2024 - Presented at NYU Computer Architecture Day
 * Mar 2024 - LLMCompass accepted at ISCA 2024! The preprint is on [arxiv](https://arxiv.org/abs/2312.03134)
 * Mar 2024 - Gave a talk for Princeton ACM about "Why You Should (and Should Not!) Go to Grad School"
@@ -66,8 +70,8 @@ Additionally, I am passionate about building research and student communities. I
 <ul class='no_marker'>
 	<li><b>LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference</b></li>
 	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</li>
-	<li><i>The 51th International Symposium on Computer Architecture (ISCA) (to appear)</i>, Buenos Aires, AR, Jun 2024</li>
-	<li><a href="https://arxiv.org/abs/2312.03134">[arxiv]</a></li>
+	<li><i>The 51th International Symposium on Computer Architecture (ISCA)</i>, Buenos Aires, AR, Jun 2024</li>
+	<li><a href="assets/papers/llmcompass-isca-2024.pdf">[pdf]</a> <a href="https://github.com/PrincetonUniversity/llmCompass/">[Github repo]</a></li>
 </ul>
 
 
