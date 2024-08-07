@@ -33,13 +33,12 @@ I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Re
 
 ### **News**
 
+* Jul 2024 - Gave talks at Stanford Computer Architecture Reading Group and Berkeley SLICE Lab All-Hands
 * Jun 2024 - Presenting LLMCompass at ISCA 2024. LLMCompass is open source! Check out our [lightning talk](https://www.youtube.com/watch?v=OlF5D0HDJTE), [full paper](assets/papers/llmcompass-isca-2024.pdf), [Github repo](https://github.com/PrincetonUniversity/llmCompass/), and let's chat in Buenos Aires!
 * May 2024 - Mentoring two undergrad students this summer for the Princeton-Intel REU program
 * Mar 2024 - Presented at NYU Computer Architecture Day
-* Mar 2024 - LLMCompass accepted at ISCA 2024! The preprint is on [arxiv](https://arxiv.org/abs/2312.03134)
 * Mar 2024 - Gave a talk for Princeton ACM about "Why You Should (and Should Not!) Go to Grad School"
 * Feb 2024 - I will be serving on the ISCA 2024 Artifact Evaluation Committee
-* Dec 2023 - New preprint up on arxiv: [A Hardware Evaluation Framework for Large Language Model Inference](https://arxiv.org/abs/2312.03134)
 * Sep 2023 - Incredibly fortunate to receive a Princeton ECE Graduate Student Service Award
 * Aug 2023 - An extend version of our CIFER paper has been accepted in IEEE Solid-State Circuits Letters
 * Jun 2023 - Modeling for Supply Chain Aware Computer Architecture is open sourced. Check it out! [github.com/PrincetonUniversity/ttm-cas/](https://github.com/PrincetonUniversity/ttm-cas/)
@@ -71,7 +70,7 @@ Additionally, I am passionate about building research and student communities. I
 	<li><b>LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference</b></li>
 	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</li>
 	<li><i>The 51th International Symposium on Computer Architecture (ISCA)</i>, Buenos Aires, AR, Jun 2024</li>
-	<li><a href="assets/papers/llmcompass-isca-2024.pdf">[pdf]</a> <a href="https://github.com/PrincetonUniversity/llmCompass/">[Github repo]</a></li>
+	<li><a href="https://ieeexplore.ieee.org/document/10609604">[IEEE Xplore]</a> <a href="assets/papers/llmcompass-isca-2024.pdf">[pdf]</a> <a href="https://github.com/PrincetonUniversity/llmCompass/">[Github repo]</a> <a href="https://www.youtube.com/watch?v=OlF5D0HDJTE">[Lightning talk]</a></li>
 </ul>
 
 
