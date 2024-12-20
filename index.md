@@ -33,15 +33,13 @@ I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Re
 
 ### **News**
 
+* Dec 2024 - Serving on HPCA 2025 Artifact Evaluation committee
+* Nov 2024 - Stripes, based on the DECADES project, has been open sourced! Check it out on Github: [https://github.com/PrincetonUniversity/stripes](https://github.com/PrincetonUniversity/stripes)
+* Oct 2024 - Presented a poster at Princeton's [Andlinger 2024 Annual Meeting](https://acee.princeton.edu/2024-annual-meeting/)
 * Jul 2024 - Gave talks at Stanford Computer Architecture Reading Group and Berkeley SLICE Lab All-Hands
 * Jun 2024 - Presenting LLMCompass at ISCA 2024. LLMCompass is open source! Check out our [lightning talk](https://www.youtube.com/watch?v=OlF5D0HDJTE), [full paper](assets/papers/llmcompass-isca-2024.pdf), [Github repo](https://github.com/PrincetonUniversity/llmCompass/), and let's chat in Buenos Aires!
 * May 2024 - Mentoring two undergrad students this summer for the Princeton-Intel REU program
-* Mar 2024 - Presented at NYU Computer Architecture Day
-* Mar 2024 - Gave a talk for Princeton ACM about "Why You Should (and Should Not!) Go to Grad School"
-* Feb 2024 - I will be serving on the ISCA 2024 Artifact Evaluation Committee
-* Sep 2023 - Incredibly fortunate to receive a Princeton ECE Graduate Student Service Award
-* Aug 2023 - An extend version of our CIFER paper has been accepted in IEEE Solid-State Circuits Letters
-* Jun 2023 - Modeling for Supply Chain Aware Computer Architecture is open sourced. Check it out! [github.com/PrincetonUniversity/ttm-cas/](https://github.com/PrincetonUniversity/ttm-cas/)
+
 
 ***
 
@@ -65,6 +63,13 @@ Additionally, I am passionate about building research and student communities. I
 
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
 ### **Publications**
+
+<ul class='no_marker'>
+	<li><b>Revisiting Computation for Research: Practices and Trends</b></li>
+	<li>Jeremiah Giordani*, Ziyang Xu*, <i>Et al.</i></li>
+	<li><i>2024 International Conference for High Performance Computing, Networking, Storage and Analysis (SC24)</i>, Atlanta, GA, USA, Nov 2024</li>
+	<li><a href="https://dl.acm.org/doi/abs/10.1109/SC41406.2024.00076">[ACM DL]</a> <a href="assets/papers/computing-trends-sc-2024.pdf">[pdf]</a></li>
+</ul>
 
 <ul class='no_marker'>
 	<li><b>LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference</b></li>
@@ -100,7 +105,7 @@ Additionally, I am passionate about building research and student communities. I
 	<li>Fei Gao, <i>Et al.</i></li>
 	<li><i>2023 IEEE Custom Integrated Circuits Conference (CICC)</i>, San Antonio, TX, USA, Apr 2023</li>
 	<li><b>Best Student Paper Award Nominee!</b></li>
-	<li><a href="https://ieeexplore.ieee.org/document/10121257">[IEEE Xplore]</a> <a href="assets/papers/decades-cicc-2023.pdf">[pdf]</a></li>
+	<li><b>New! Nov 2024</b> <a href="https://github.com/PrincetonUniversity/stripes">[Stripes Open Source]</a> <a href="https://ieeexplore.ieee.org/document/10121257">[IEEE Xplore]</a> <a href="assets/papers/decades-cicc-2023.pdf">[pdf]</a></li>
 </ul>
 
 <ul class='no_marker'>
@@ -119,6 +124,11 @@ Additionally, I am passionate about building research and student communities. I
 
 ### **Workshops/Presentations**
 
+<ul class='no_marker'>
+	<li><b>Carbon Characterization of a Megawatt-scale Research Data Center</b></li>
+	<li>August Ning and David Wentzlaff</li>
+	<li><i>The Andlinger Center for Energy and the Environment’s 2024 Annual Meeting </i>, Princeton, NJ, USA, Nov 2024</li>
+</ul>
 <ul class='no_marker'>
 	<li><b>Computer Architectures for Chip Surplus</b></li>
 	<li>August Ning and David Wentzlaff</li>
