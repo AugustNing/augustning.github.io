@@ -19,9 +19,7 @@ layout: home
 
 ***
 
-<span style="color:red">**I am graduating in 2025 and am on the job market for industry research and academic postdoc positions. Please reach out if you think we'll have a good fit. Thank you!**</span>
-
-I am a senior Electrical and Computer Engineering PhD candidate at Princeton. I am advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/).
+I am a senior PhD candidate in the Electrical and Computer Engineering department at Princeton University. I am advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/).
 
 I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916) and his graduate students and conducted research on VLSI testing.
 
@@ -33,22 +31,21 @@ I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Re
 
 ### **News**
 
+* Mar 2025 - "Chip Architectures under Advanced Computing Sanctions" accepted at ISCA 2025!
+* Feb 2025 - Talk at University of Central Florida
+* Jan 2025 - Talk at EPFL
 * Dec 2024 - Serving on HPCA 2025 Artifact Evaluation committee
 * Nov 2024 - Stripes, based on the DECADES project, has been open sourced! Check it out on Github: [https://github.com/PrincetonUniversity/stripes](https://github.com/PrincetonUniversity/stripes)
 * Oct 2024 - Presented a poster at Princeton's [Andlinger 2024 Annual Meeting](https://acee.princeton.edu/2024-annual-meeting/)
-* Jul 2024 - Gave talks at Stanford Computer Architecture Reading Group and Berkeley SLICE Lab All-Hands
-* Jun 2024 - Presenting LLMCompass at ISCA 2024. LLMCompass is open source! Check out our [lightning talk](https://www.youtube.com/watch?v=OlF5D0HDJTE), [full paper](assets/papers/llmcompass-isca-2024.pdf), [Github repo](https://github.com/PrincetonUniversity/llmCompass/), and let's chat in Buenos Aires!
-* May 2024 - Mentoring two undergrad students this summer for the Princeton-Intel REU program
-
 
 ***
 
 ### **Research Interests**
-My research focuses on computer architecture under (very broadly defined) economics constraints. I am interested in how semiconductor supply chains, manufacturing costs, and economic trends ultimately affect chip and system designs. 
+My research focuses on computer architecture and systems under (very broadly defined) economics constraints. I am interested in how factors such as semiconductor manufacturing, economic trends, and policies/regulations ultimately affect chip and system designs. 
 
-Closer to traditional computer architecture, I am interested in sustainability, hardware security, chiplet architectures, and software-hardware co-design via the [DECADES Project](https://decades.cs.princeton.edu/).
+Closer to traditional computer architecture, I am interested in sustainability, chiplet architectures, software-hardware co-design ([DECADES Project](https://decades.cs.princeton.edu/)) and sys for ML ([SAIL@Princeton](https://sysml.cs.princeton.edu/index.html)).
 
-Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and often organize social events with the Princeton computer architects. I am the graduate liason for [Princeton ACM](https://princeton.acm.org/). If you're ever in the Princeton area or meet me at a conference, please reach out and say hello!
+Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I am the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I am also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the Princeton area or meet me at a conference, please reach out and say hello!
 
 ***
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
@@ -65,16 +62,22 @@ Additionally, I am passionate about building research and student communities. I
 ### **Publications**
 
 <ul class='no_marker'>
+	<li><b>Chip Architectures Under Advanced Computing Sanctions</b></li>
+	<li>August Ning and David Wentzlaff</li>
+	<li><i>The 52nd International Symposium on Computer Architecture (ISCA 2025) (to appear)</i></li>
+</ul>
+
+<ul class='no_marker'>
 	<li><b>Revisiting Computation for Research: Practices and Trends</b></li>
 	<li>Jeremiah Giordani*, Ziyang Xu*, <i>Et al.</i></li>
-	<li><i>2024 International Conference for High Performance Computing, Networking, Storage and Analysis (SC24)</i>, Atlanta, GA, USA, Nov 2024</li>
+	<li><i>2024 International Conference for High Performance Computing, Networking, Storage and Analysis (SC24)</i></li>
 	<li><a href="https://dl.acm.org/doi/abs/10.1109/SC41406.2024.00076">[ACM DL]</a> <a href="assets/papers/computing-trends-sc-2024.pdf">[pdf]</a></li>
 </ul>
 
 <ul class='no_marker'>
 	<li><b>LLMCompass: Enabling Efficient Hardware Design for Large Language Model Inference</b></li>
 	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</li>
-	<li><i>The 51th International Symposium on Computer Architecture (ISCA)</i>, Buenos Aires, AR, Jun 2024</li>
+	<li><i>The 51th International Symposium on Computer Architecture (ISCA 2024)</i></li>
 	<li><a href="https://ieeexplore.ieee.org/document/10609604">[IEEE Xplore]</a> <a href="assets/papers/llmcompass-isca-2024.pdf">[pdf]</a> <a href="https://github.com/PrincetonUniversity/llmCompass/">[Github repo]</a> <a href="https://www.youtube.com/watch?v=OlF5D0HDJTE">[Lightning talk]</a></li>
 </ul>
 
@@ -89,21 +92,21 @@ Additionally, I am passionate about building research and student communities. I
 <ul class='no_marker'>
 	<li><b>Supply Chain Aware Computer Architecture</b></li>
 	<li>August Ning, Georgios Tziantzioulis, and David Wentzlaff</li>
-	<li><i>The 50th International Symposium on Computer Architecture (ISCA)</i>, Orlando, FL, USA, Jun 2023</li>
+	<li><i>The 50th International Symposium on Computer Architecture (ISCA 2023)</i></li>
 	<li><a href="https://dl.acm.org/doi/10.1145/3579371.3589052">[ACM DL Open Access]</a> <a href="assets/papers/supply-chain-isca-2023.pdf">[pdf]</a> <a href="https://github.com/PrincetonUniversity/ttm-cas/">[Github repo]</a></li>
 </ul>
 
 <ul class='no_marker'>
 	<li><b>CIFER: A 12nm, 16mm<sup>2</sup>, 22-Core SoC with a 1541 LUT6/mm<sup>2</sup>, 1.92 MOPS/LUT, Fully Synthesizable, Cache-Coherent, Embedded FPGA</b></li>
 	<li>Ting-Jung Chang*, Ang Li*, <i>Et al.</i></li>
-	<li><i>2023 IEEE Custom Integrated Circuits Conference (CICC)</i>, San Antonio, TX, USA, Apr 2023</li>
+	<li><i>2023 IEEE Custom Integrated Circuits Conference (CICC 2023)</i></li>
 	<li><a href="https://ieeexplore.ieee.org/abstract/document/10121294">[IEEE Xplore]</a> <a href="assets/papers/cifer-cicc-2023.pdf">[pdf]</a></li>
 </ul>
 
 <ul class='no_marker'>
 	<li><b>DECADES: A 67mm<sup>2</sup>, 1.46TOPS, 55 Giga Cache-Coherent 64-bit RISC-V Instructions per second, Heterogeneous Manycore SoC with 109 Tiles including Accelerators, Intelligent Storage, and eFPGA in 12nm FinFET</b></li>
 	<li>Fei Gao, <i>Et al.</i></li>
-	<li><i>2023 IEEE Custom Integrated Circuits Conference (CICC)</i>, San Antonio, TX, USA, Apr 2023</li>
+	<li><i>2023 IEEE Custom Integrated Circuits Conference (CICC 2023)</i></li>
 	<li><b>Best Student Paper Award Nominee!</b></li>
 	<li><b>New! Nov 2024</b> <a href="https://github.com/PrincetonUniversity/stripes">[Stripes Open Source]</a> <a href="https://ieeexplore.ieee.org/document/10121257">[IEEE Xplore]</a> <a href="assets/papers/decades-cicc-2023.pdf">[pdf]</a></li>
 </ul>
@@ -111,7 +114,7 @@ Additionally, I am passionate about building research and student communities. I
 <ul class='no_marker'>
 	<li><b>Duet: Creating Harmony between Processors and Embedded FPGAs</b></li>
 	<li>Ang Li, August Ning, and David Wentzlaff</li>
-	<li><i>2023 IEEE International Symposium on High-Performance Computer Architecture (HPCA)</i>, Montreal, QC, Canada, Mar 2023</li>
+	<li><i>2023 IEEE International Symposium on High-Performance Computer Architecture (HPCA 2023)</i></li>
 	<li><a href="https://ieeexplore.ieee.org/document/10070989">[IEEE Xplore]</a> <a href="assets/papers/duet-hpca-2023.pdf">[pdf]</a> <a href="https://github.com/PrincetonUniversity/duet">[Github repo]</a></li>
 </ul>
 
@@ -127,18 +130,18 @@ Additionally, I am passionate about building research and student communities. I
 <ul class='no_marker'>
 	<li><b>Carbon Characterization of a Megawatt-scale Research Data Center</b></li>
 	<li>August Ning and David Wentzlaff</li>
-	<li><i>The Andlinger Center for Energy and the Environment’s 2024 Annual Meeting </i>, Princeton, NJ, USA, Nov 2024</li>
+	<li><i>The Andlinger Center for Energy and the Environment’s 2024 Annual Meeting</i>, Nov 2024</li>
 </ul>
 <ul class='no_marker'>
 	<li><b>Computer Architectures for Chip Surplus</b></li>
 	<li>August Ning and David Wentzlaff</li>
-	<li><i>ACM Student Research Competition at MICRO 2022</i>, Chicago, IL, USA, Oct 2022</li>
+	<li><i>ACM Student Research Competition at MICRO 2022</i>, Oct 2022</li>
 	<li><a href="assets/papers/chip-surplus-src-micro-2022.pdf">[poster]</a></li>
 </ul>
 <ul class='no_marker'>
 	<li><b>Supply Chain Aware Chip Architecture</b></li>
 	<li>August Ning, Georgios Tziantzioulis, and David Wentzlaff</li>
-	<li><i>The Fourth Young Architect Workshop at ASPLOS 2022</i>, Lausanne, VD, Switzerland, Mar 2022</li>
+	<li><i>The Fourth Young Architect Workshop at ASPLOS 2022</i>, Mar 2022</li>
 	<li><a href="assets/papers/supply-chain-yarch-asplos-2022.pdf">[poster]</a></li>
 </ul>
 
