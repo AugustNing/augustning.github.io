@@ -19,33 +19,38 @@ layout: home
 
 ***
 
-I am a senior PhD candidate in the Electrical and Computer Engineering department at Princeton University. I am advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/).
+<span style="color:red">**In Fall 2025 I will start as a postdoc at EPFL! 🇨🇭**</span>
+
+I received my PhD from the Electrical and Computer Engineering department at Princeton University. I was advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/).
 
 I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916) and his graduate students and conducted research on VLSI testing.
 
 I spent summer 2023 interning at AMD Research, mentored by Yasuko Eckert.
 
-I am supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program.
+I was supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program.
 
 ***
 
 ### **News**
 
+* May 2025 - Defended my thesis! Thank you Dave for being an incredible advisor and Sharad, Margaret, and Ben for being an awesome committee!
+
+<div style="text-align: center;">
+  <img src="assets/images/ning_fpo_committee.jpg" alt="Left to right: David Wentzlaff, August Ning, Sharad Malik, Margaret Martonosi, and Benjamin C. Lee at August's FPO" style="max-width:50%; height:auto;">
+</div>
+
 * Mar 2025 - "Chip Architectures under Advanced Computing Sanctions" accepted at ISCA 2025!
 * Feb 2025 - Talk at University of Central Florida
 * Jan 2025 - Talk at EPFL
-* Dec 2024 - Serving on HPCA 2025 Artifact Evaluation committee
-* Nov 2024 - Stripes, based on the DECADES project, has been open sourced! Check it out on Github: [https://github.com/PrincetonUniversity/stripes](https://github.com/PrincetonUniversity/stripes)
-* Oct 2024 - Presented a poster at Princeton's [Andlinger 2024 Annual Meeting](https://acee.princeton.edu/2024-annual-meeting/)
 
 ***
 
 ### **Research Interests**
 My research focuses on computer architecture and systems under (very broadly defined) economics constraints. I am interested in how factors such as semiconductor manufacturing, economic trends, and policies/regulations ultimately affect chip and system designs. 
 
-Closer to traditional computer architecture, I am interested in sustainability, chiplet architectures, software-hardware co-design ([DECADES Project](https://decades.cs.princeton.edu/)) and sys for ML ([SAIL@Princeton](https://sysml.cs.princeton.edu/index.html)).
+Closer to traditional computer architecture, I am interested in energy and cost efficiency, chiplet architectures, software-hardware co-design ([DECADES Project](https://decades.cs.princeton.edu/)) and sys for ML ([SAIL@Princeton](https://sysml.cs.princeton.edu/index.html)).
 
-Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I am the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I am also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the Princeton area or meet me at a conference, please reach out and say hello!
+Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I am the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I am also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the area or meet me at a conference, please reach out and say hello!
 
 ***
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
@@ -65,7 +70,15 @@ Additionally, I am passionate about building research and student communities. I
 	<li><b>Chip Architectures Under Advanced Computing Sanctions</b></li>
 	<li>August Ning and David Wentzlaff</li>
 	<li><i>The 52nd International Symposium on Computer Architecture (ISCA 2025) (to appear)</i></li>
+	<!-- <li><a href="assets/papers/sanctions-isca-2025-preprint.pdf">[preprint pdf]</a></li> -->
 </ul>
+
+<ul class='no_marker'>
+	<li><b>Computer Architecture Under Economic Constraints</b></li>
+	<li>August Ning</li>
+	<li><i>PhD Thesis, Princeton University</i></li>
+</ul>
+
 
 <ul class='no_marker'>
 	<li><b>Revisiting Computation for Research: Practices and Trends</b></li>
@@ -128,16 +141,12 @@ Additionally, I am passionate about building research and student communities. I
 ### **Workshops/Presentations**
 
 <ul class='no_marker'>
-	<li><b>Carbon Characterization of a Megawatt-scale Research Data Center</b></li>
-	<li>August Ning and David Wentzlaff</li>
-	<li><i>The Andlinger Center for Energy and the Environment’s 2024 Annual Meeting</i>, Nov 2024</li>
-</ul>
-<ul class='no_marker'>
 	<li><b>Computer Architectures for Chip Surplus</b></li>
 	<li>August Ning and David Wentzlaff</li>
 	<li><i>ACM Student Research Competition at MICRO 2022</i>, Oct 2022</li>
 	<li><a href="assets/papers/chip-surplus-src-micro-2022.pdf">[poster]</a></li>
 </ul>
+
 <ul class='no_marker'>
 	<li><b>Supply Chain Aware Chip Architecture</b></li>
 	<li>August Ning, Georgios Tziantzioulis, and David Wentzlaff</li>
@@ -147,6 +156,6 @@ Additionally, I am passionate about building research and student communities. I
 
 ---
 
-[Github](https://github.com/{{ site.github }}) / [Google Scholar](https://scholar.google.com/citations?user={{ site.google_scholar }}) / [CV]({{ site.cv_filepath }})
+[Github](https://github.com/{{ site.github }}) / [Google Scholar](https://scholar.google.com/citations?user={{ site.google_scholar }}) / [ORCID: 0000-0002-3331-7958](https://orcid.org/0000-0002-3331-7958) / [CV]({{ site.cv_filepath }})
 
 This website is built with [Jekyll](https://github.com/jekyll/jekyll) using a modified [no style, please!](https://github.com/riggraz/no-style-please) theme.
