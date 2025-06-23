@@ -69,8 +69,8 @@ Additionally, I am passionate about building research and student communities. I
 <ul class='no_marker'>
 	<li><b>Chip Architectures Under Advanced Computing Sanctions</b></li>
 	<li>August Ning and David Wentzlaff</li>
-	<li><i>The 52nd International Symposium on Computer Architecture (ISCA 2025) (to appear)</i></li>
-	<!-- <li><a href="assets/papers/sanctions-isca-2025-preprint.pdf">[preprint pdf]</a></li> -->
+	<li><i>The 52nd International Symposium on Computer Architecture (ISCA 2025)</i></li>
+	<li><a href="https://dl.acm.org/doi/10.1145/3695053.3731012">[ACM DL]</a> <a href="assets/papers/sanctions-isca-2025.pdf">[pdf]</a></li>
 </ul>
 
 <ul class='no_marker'>
