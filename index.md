@@ -10,10 +10,6 @@ layout: home
 	<br>
 	<div style="display: inline-block; text-align: center;">
 		Email: {{site.email}}
-		<br>
-		Twitter: <a href="https://twitter.com/{{site.twitter}}">@{{site.twitter}}</a>
-		<br>
-		Linkedin: <a href="https://linkedin.com/in/{{site.linkedin}}">@{{site.linkedin}}</a>
 	</div>
 </div>
 
@@ -156,6 +152,7 @@ Additionally, I am passionate about building research and student communities. I
 
 ---
 
-[Github](https://github.com/{{ site.github }}) / [Google Scholar](https://scholar.google.com/citations?user={{ site.google_scholar }}) / [ORCID: 0000-0002-3331-7958](https://orcid.org/0000-0002-3331-7958) / [CV]({{ site.cv_filepath }})
+[Linkedin](https://linkedin.com/in/{{ site.linkedin }}) / [Twitter](https://twitter.com/{{ site.twitter }}) / [Github](https://github.com/{{ site.github }}) / [Google Scholar](https://scholar.google.com/citations?user={{ site.google_scholar }}) / [DBLP](https://dblp.org/pid/284/6904.html) 
+/ [ORCID](https://orcid.org/0000-0002-3331-7958) / [CV]({{ site.cv_filepath }})
 
 This website is built with [Jekyll](https://github.com/jekyll/jekyll) using a modified [no style, please!](https://github.com/riggraz/no-style-please) theme.
