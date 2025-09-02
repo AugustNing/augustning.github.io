@@ -15,20 +15,17 @@ layout: home
 
 ***
 
-<span style="color:red">**In Fall 2025 I will start as a postdoc at EPFL! 🇨🇭**</span>
+I am a postdoc at EPFL working with [Babak Falsafi](https://parsa.epfl.ch/~falsafi/), [PARSA](https://parsa.epfl.ch/), and [EcoCloud](https://ecocloud.epfl.ch/).
 
-I received my PhD from the Electrical and Computer Engineering department at Princeton University. I was advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/).
+I received my PhD from Princeton University. I was advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/). I was supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program. I spent summer 2023 interning at AMD Research working with Yasuko Eckert.
 
-I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916) and his graduate students and conducted research on VLSI testing.
-
-I spent summer 2023 interning at AMD Research, mentored by Yasuko Eckert.
-
-I was supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program.
+<!-- I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916) and his graduate students and conducted research on VLSI testing. -->
 
 ***
 
 ### **News**
 
+* Sep 2025 - Started at EPFL
 * May 2025 - Defended my thesis! Thank you Dave for being an incredible advisor and Sharad, Margaret, and Ben for being an awesome committee!
 
 <div style="text-align: center;">
@@ -45,8 +42,6 @@ I was supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate R
 My research focuses on computer architecture and systems under (very broadly defined) economics constraints. I am interested in how factors such as semiconductor manufacturing, economic trends, and policies/regulations ultimately affect chip and system designs. 
 
 Closer to traditional computer architecture, I am interested in energy and cost efficiency, chiplet architectures, software-hardware co-design ([DECADES Project](https://decades.cs.princeton.edu/)) and sys for ML ([SAIL@Princeton](https://sysml.cs.princeton.edu/index.html)).
-
-Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I am the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I am also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the area or meet me at a conference, please reach out and say hello!
 
 ***
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
@@ -149,6 +144,10 @@ Additionally, I am passionate about building research and student communities. I
 	<li><i>The Fourth Young Architect Workshop at ASPLOS 2022</i>, Mar 2022</li>
 	<li><a href="assets/papers/supply-chain-yarch-asplos-2022.pdf">[poster]</a></li>
 </ul>
+
+---
+
+Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I was the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I was also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the area or meet me at a conference, please reach out and say hello!
 
 ---
 
