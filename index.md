@@ -9,7 +9,7 @@ layout: home
 	<br>
 	<br>
 	<div style="display: inline-block; text-align: center;">
-		Email: {{site.email}}
+		Email: {{site.email}} | <a href="{{ site.cv_filepath }}">CV</a>
 	</div>
 </div>
 
@@ -25,7 +25,9 @@ I received my PhD from Princeton University where I was advised by [Prof. David 
 
 ### **News**
 
-* Sep 2025 - Started at EPFL
+* Nov 2025 - Serving on the ISCA 2026 PC
+* Oct 2025 - New preprint: SPAD now on Arxiv
+* Sep 2025 - Started at EPFL!
 * May 2025 - Defended my thesis! Thank you Dave for being an incredible advisor and Sharad, Margaret, and Ben for being an awesome committee!
 
 <div style="text-align: center;">
@@ -45,14 +47,14 @@ Closer to traditional computer architecture, I am interested in energy and cost 
 
 ***
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
-<!-- ### **Preprints**
+### **Preprints**
 
 <ul class='no_marker'>
-	<li><b>A Hardware Evaluation Framework for Large Language Model Inference</b></li>
-	<li>Hengrui Zhang, August Ning, Rohan Prabhakar, and David Wentzlaff</li>
-	<li>Dec 2023</li>
-	<li><a href="https://arxiv.org/abs/2312.03134">[arxiv]</a> <a href="assets/papers/llm-hardware-eval-arxiv-2023.pdf">[pdf]</a></li>
-</ul> -->
+	<li><b>SPAD: Specialized Prefill and Decode Hardware for Disaggregated LLM Inference</b></li>
+	<li>Hengrui Zhang, Pratyush Patel, August Ning, and David Wentzlaff</li>
+	<li>Oct 2025</li>
+	<li><a href="https://arxiv.org/abs/2510.08544">[arxiv]</a> <a href="assets/papers/spad-arxiv-2025.pdf">[pdf]</a></li>
+</ul>
 
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
 ### **Publications**
@@ -61,13 +63,12 @@ Closer to traditional computer architecture, I am interested in energy and cost 
 	<li><b>Chip Architectures Under Advanced Computing Sanctions</b></li>
 	<li>August Ning and David Wentzlaff</li>
 	<li><i>The 52nd International Symposium on Computer Architecture (ISCA 2025)</i></li>
-	<li><a href="https://dl.acm.org/doi/10.1145/3695053.3731012">[ACM DL]</a> <a href="assets/papers/sanctions-isca-2025.pdf">[pdf]</a></li>
+	<li><a href="https://dl.acm.org/doi/10.1145/3695053.3731012">[ACM DL Open Access]</a> <a href="assets/papers/sanctions-isca-2025.pdf">[pdf]</a></li>
 </ul>
 
 <ul class='no_marker'>
 	<li><b>Computer Architecture Under Economic Constraints</b></li>
-	<li>August Ning</li>
-	<li><i>PhD Thesis, Princeton University</i></li>
+	<li><i>PhD Thesis, Princeton University; May 2025</i></li>
 </ul>
 
 
@@ -112,7 +113,7 @@ Closer to traditional computer architecture, I am interested in energy and cost 
 	<li>Fei Gao, <i>Et al.</i></li>
 	<li><i>2023 IEEE Custom Integrated Circuits Conference (CICC 2023)</i></li>
 	<li><b>Best Student Paper Award Nominee!</b></li>
-	<li><b>New! Nov 2024</b> <a href="https://github.com/PrincetonUniversity/stripes">[Stripes Open Source]</a> <a href="https://ieeexplore.ieee.org/document/10121257">[IEEE Xplore]</a> <a href="assets/papers/decades-cicc-2023.pdf">[pdf]</a></li>
+	<li><a href="https://ieeexplore.ieee.org/document/10121257">[IEEE Xplore]</a> <a href="assets/papers/decades-cicc-2023.pdf">[pdf]</a> <b>New! Nov 2024</b> <a href="https://github.com/PrincetonUniversity/stripes">[Stripes Open Source]</a></li>
 </ul>
 
 <ul class='no_marker'>
