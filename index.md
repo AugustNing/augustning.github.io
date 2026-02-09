@@ -15,7 +15,7 @@ layout: home
 
 ***
 
-I am a postdoc at EPFL working with [Babak Falsafi](https://parsa.epfl.ch/~falsafi/), [PARSA](https://parsa.epfl.ch/), and [EcoCloud](https://ecocloud.epfl.ch/).
+I am a postdoc at EPFL working with [Prof. Babak Falsafi](https://parsa.epfl.ch/~falsafi/), [PARSA](https://parsa.epfl.ch/), and [EcoCloud](https://ecocloud.epfl.ch/).
 
 I received my PhD from Princeton University where I was advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/). I was supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program. I spent summer 2023 interning at AMD Research working with Yasuko Eckert.
 
@@ -25,6 +25,8 @@ I received my PhD from Princeton University where I was advised by [Prof. David 
 
 ### **News**
 
+* Mar 2026 - I will give a talk/panel at CMU's Critical Technology Initiative and attend ASPLOS 2026
+* Feb 2026 - I will be teaching [CS 728 Topics on Datacenter Design](https://parsa.epfl.ch/course-info/cs728/)
 * Nov 2025 - Serving on the ISCA 2026 PC
 * Oct 2025 - New preprint: SPAD now on Arxiv
 * Sep 2025 - Started at EPFL!
@@ -33,10 +35,6 @@ I received my PhD from Princeton University where I was advised by [Prof. David 
 <div style="text-align: center;">
   <img src="assets/images/ning_fpo_committee.jpg" alt="Left to right: David Wentzlaff, August Ning, Sharad Malik, Margaret Martonosi, and Benjamin C. Lee at August's FPO" style="max-width:50%; height:auto;">
 </div>
-
-* Mar 2025 - "Chip Architectures under Advanced Computing Sanctions" accepted at ISCA 2025!
-* Feb 2025 - Talk at University of Central Florida
-* Jan 2025 - Talk at EPFL
 
 ***
 
@@ -148,7 +146,7 @@ Closer to traditional computer architecture, I am interested in energy and cost 
 
 ---
 
-Additionally, I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I was the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I was also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the area or meet me at a conference, please reach out and say hello!
+I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I was the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I was also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the area or meet me at a conference, please reach out and say hello!
 
 ---
 
