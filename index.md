@@ -25,16 +25,16 @@ I received my PhD from Princeton University where I was advised by [Prof. David 
 
 ### **News**
 
+* Apr 2026 - Presenting at 2026 OCP EMEA Summit on  
+"Fan, PSU, and Idle Power in Air-Cooled/Liquid-Cooled Servers"
+* Mar 2026 - Co-PI on an Swiss AI Initiative small grant studying  
+"Model-System Insights for Hardware Efficient LLM Inference"
+* Mar 2026 - Serving on the MICRO 2026 PC
 * Mar 2026 - I will give a talk/panel at CMU's Critical Technology Initiative and attend ASPLOS 2026
 * Feb 2026 - I will be teaching [CS 728 Topics on Datacenter Design](https://parsa.epfl.ch/course-info/cs728/)
 * Nov 2025 - Serving on the ISCA 2026 PC
 * Oct 2025 - New preprint: SPAD now on Arxiv
 * Sep 2025 - Started at EPFL!
-* May 2025 - Defended my thesis! Thank you Dave for being an incredible advisor and Sharad, Margaret, and Ben for being an awesome committee!
-
-<div style="text-align: center;">
-  <img src="assets/images/ning_fpo_committee.jpg" alt="Left to right: David Wentzlaff, August Ning, Sharad Malik, Margaret Martonosi, and Benjamin C. Lee at August's FPO" style="max-width:50%; height:auto;">
-</div>
 
 ***
 
