@@ -6,3 +6,5 @@ _site
 vendor
 Gemfile.lock
 *.info
+.DS_Store
+*/.DS_Store
