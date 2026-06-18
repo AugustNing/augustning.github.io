@@ -25,6 +25,12 @@ I received my PhD from Princeton University where I was advised by [Prof. David 
 
 ### **News**
 
+* Nov 2026 - I will be speaking at the [The Future of Sustainable Computing
+Symposium](https://thefutureofsuscomp2026.h-its.org/) at HITS
+* June 2026 - Two papers accepted at HotInfra 2026 (@ ISCA 2026)!
+* May 2026 - Serving on the HotCarbon 2026 PC
+* May 2026 - Presenting at SC4RC 2026 on  
+"Fan, PSU, and Idle Power in Air-Cooled/Liquid-Cooled Servers"
 * Apr 2026 - Presenting at 2026 OCP EMEA Summit on  
 "Fan, PSU, and Idle Power in Air-Cooled/Liquid-Cooled Servers"
 * Mar 2026 - Co-PI on an Swiss AI Initiative small grant studying  
@@ -129,6 +135,22 @@ Closer to traditional computer architecture, I am interested in energy and cost 
 </ul>
 
 ### **Workshops/Presentations**
+
+<ul class='no_marker'>
+	<li><b>Design Space Exploration for Optimal Silicon-Efficient Server Chiplets</b></li>
+	<li>Ayan Chakraborty <i>Et al.</i></li>
+	<li><i>HotInfra 2026 at ISCA 2026</i>, June 2026</li>
+	<li><a href="assets/papers/optimal-server-chiplets-hotinfra-2026.pdf">[pdf]</a></li>
+</ul>
+
+
+<ul class='no_marker'>
+	<li><b>Power Breakdowns and PUE Implications of Air-Cooled and Direct-Liquid-Cooled Servers</b></li>
+	<li>August Ning, Xavier Ouvrard, and Babak Falsafi</li>
+	<li>2026 OCP EMEA Summit: <a href="assets/papers/server-power-measurement-ocp-emea-2026.pdf">[slides]</a></li>
+	<li>SC4RC: <a href="assets/papers/server-power-measurement-sc4rc-2026.pdf">[poster]</a></li>
+	<li>HotInfra 2026: <a href="assets/papers/server-power-measurement-hotinfra-2026.pdf">[pdf]</a></li>
+</ul>
 
 <ul class='no_marker'>
 	<li><b>Computer Architectures for Chip Surplus</b></li>
