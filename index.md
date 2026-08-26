@@ -15,9 +15,11 @@ layout: home
 
 ***
 
-I am a postdoc at EPFL working with [Prof. Babak Falsafi](https://parsa.epfl.ch/~falsafi/), [PARSA](https://parsa.epfl.ch/), and [EcoCloud](https://ecocloud.epfl.ch/).
+I am a postdoc at EPFL working with [Prof. Babak Falsafi](https://parsa.epfl.ch/~falsafi/), [PARSA](https://parsa.epfl.ch/), and [EcoCloud](https://ecocloud.epfl.ch/). I am also an [Open Compute Project Data Center Efficiency Metrics workstream](https://www.opencompute.org/community/sustainability/) member.
 
 I received my PhD from Princeton University where I was advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/). I was supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program. I spent summer 2023 interning at AMD Research working with Yasuko Eckert.
+
+<p style="color: blue;">2026/2027: I am on the job market looking for academic and industry research positions!</p>
 
 <!-- I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916) and his graduate students and conducted research on VLSI testing. -->
 
@@ -27,25 +29,25 @@ I received my PhD from Princeton University where I was advised by [Prof. David 
 
 * Nov 2026 - I will be speaking at the [The Future of Sustainable Computing
 Symposium](https://thefutureofsuscomp2026.h-its.org/) at HITS
-* June 2026 - Two papers accepted at HotInfra 2026 (@ ISCA 2026)!
+* Sep 2026 - I am co-teaching [CS 471 Advanced Multiprocessor Architecture](https://parsa.epfl.ch/course-info/cs471/) with Prof. Babak Falsafi
+* Aug 2026 - I am serving as the Web Chair for ISCA 2027
+* Jul 2026 - One paper accepted at MICRO 2026!
+* Jun 2026 - Two papers accepted at HotInfra 2026 (@ ISCA 2026)!
 * May 2026 - Serving on the HotCarbon 2026 PC
-* May 2026 - Presenting at SC4RC 2026 on  
-"Fan, PSU, and Idle Power in Air-Cooled/Liquid-Cooled Servers"
-* Apr 2026 - Presenting at 2026 OCP EMEA Summit on  
-"Fan, PSU, and Idle Power in Air-Cooled/Liquid-Cooled Servers"
+* Apr 2026 - Presenting "Fan, PSU, and Idle Power in Air-Cooled/Liquid-Cooled Servers" at 2026 OCP EMEA Summit and SC4RC 2026
 * Mar 2026 - Co-PI on an Swiss AI Initiative small grant studying  
 "Model-System Insights for Hardware Efficient LLM Inference"
 * Mar 2026 - Serving on the MICRO 2026 PC
 * Mar 2026 - I will give a talk/panel at CMU's Critical Technology Initiative and attend ASPLOS 2026
-* Feb 2026 - I will be teaching [CS 728 Topics on Datacenter Design](https://parsa.epfl.ch/course-info/cs728/)
+* Feb 2026 - I am teaching [CS 728 Topics on Datacenter Design](https://parsa.epfl.ch/course-info/cs728/)
 * Nov 2025 - Serving on the ISCA 2026 PC
-* Oct 2025 - New preprint: SPAD now on Arxiv
+* Oct 2025 - SPAD preprint now on Arxiv
 * Sep 2025 - Started at EPFL!
 
 ***
 
 ### **Research Interests**
-My research focuses on computer architecture and systems under (very broadly defined) economics constraints. I am interested in how factors such as semiconductor manufacturing, economic trends, and policies/regulations ultimately affect chip and system designs. 
+My research focuses on computer architecture and systems under (very broadly defined) economics constraints. I am interested in how factors such as semiconductor manufacturing, economic trends, and policies/regulations ultimately affect chip and system designs. During my postdoc, I continue this thrust in the context of post-Moore's datacenters.
 
 Closer to traditional computer architecture, I am interested in energy and cost efficiency, chiplet architectures, software-hardware co-design ([DECADES Project](https://decades.cs.princeton.edu/)) and sys for ML ([SAIL@Princeton](https://sysml.cs.princeton.edu/index.html)).
 
@@ -62,6 +64,12 @@ Closer to traditional computer architecture, I am interested in energy and cost 
 
 <!-- authors, "title in quotes,", *conference in italics*, city, state, country, month year -->
 ### **Publications**
+
+<ul class='no_marker'>
+	<li><b>Orbital AI Datacenters: An Architectural Analysis</b></li>
+	<li>Barry Lyu, August Ning, Ron Dreslinksi, and Nathan Bleier</li>
+	<li><i>The 59th International Symposium on Micorarchitecture (MICRO 2026)</i></li>
+</ul>
 
 <ul class='no_marker'>
 	<li><b>Chip Architectures Under Advanced Computing Sanctions</b></li>
@@ -168,7 +176,7 @@ Closer to traditional computer architecture, I am interested in energy and cost 
 
 ---
 
-I am passionate about building research and student communities. I serve on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I was the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I was also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/). If you're ever in the area or meet me at a conference, please reach out and say hello!
+I am passionate about building research and student communities. I served on the [Computer Architecture Student Association](https://sigarch.org/casa/) steering committee and I was the graduate liason for [Princeton ACM](https://princetonacm.github.io/). I was also a resident graduate student at [Whitman College](https://whitmancollege.princeton.edu/) (Go Whales!). If you're ever in the area or meet me at a conference, please reach out and say hello!
 
 ---
 
