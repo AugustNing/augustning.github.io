@@ -29,6 +29,7 @@ I received my PhD from Princeton University where I was advised by [Prof. David 
 
 * Nov 2026 - I will be speaking at the [The Future of Sustainable Computing
 Symposium](https://thefutureofsuscomp2026.h-its.org/) at HITS
+* Nov 2026 - I will be attending MICRO 2026! I will be presenting at the Job Candidate Showcase and sustainability workshop!
 * Sep 2026 - I am co-teaching [CS 471 Advanced Multiprocessor Architecture](https://parsa.epfl.ch/course-info/cs471/) with Prof. Babak Falsafi
 * Aug 2026 - I am serving as the Web Chair for ISCA 2027
 * Jul 2026 - One paper accepted at MICRO 2026!
