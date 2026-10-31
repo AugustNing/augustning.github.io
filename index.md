@@ -19,7 +19,9 @@ I am a postdoc at EPFL working with [Prof. Babak Falsafi](https://parsa.epfl.ch/
 
 I received my PhD from Princeton University where I was advised by [Prof. David Wentzlaff](https://princeton.edu/~wentzlaf/) in the [Princeton Parallel Group](https://parallel.princeton.edu/). I was supported by Princeton's Gordon Y. S. Wu Fellowship and the NSF Graduate Research Fellowship Program. I spent summer 2023 interning at AMD Research working with Yasuko Eckert.
 
-<p style="color: blue;">2026/2027: I am on the job market looking for academic and industry research positions!</p>
+<p><mark style="color:white;background:#788365!important">2026/2027: I am on the job market looking for academic and industry research positions!</mark></p>
+
+
 
 <!-- I did my undergrad at Duke in Electrical and Computer Engineering. I was advised by [Prof. Krishnendu Chakrabarty](https://search.asu.edu/profile/4669916) and his graduate students and conducted research on VLSI testing. -->
 
